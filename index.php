@@ -340,7 +340,7 @@
         <div class="row">
 
           <div class="col-lg-3 col-md-6 footer-contact">
-            <h3>Appland</h3>
+            <h3>EDUGYAN</h3>
             <p>
               256, Sec-63, Noida - 201301 <br>
              
